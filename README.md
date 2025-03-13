@@ -1,1 +1,1 @@
-STARGATE website: https://stargatecollaboration.github.io/
+BOWIE website: https://bowiecollaboration.github.io/
