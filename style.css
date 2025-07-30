@@ -215,7 +215,7 @@ a:hover {
 	background: #FFC102;
 	border-radius: 0px;
 	text-decoration: none;
-	color: #FFFFFF;
+	color: #000000;
 }
 
 #menu .current_page_item a {
@@ -241,9 +241,6 @@ a:hover {
 .post {
 	margin-bottom: 15px;
 	padding: 40px 200px;
-	border: 1px solid #E7DFD7;
-	border-radius: 0px;
-	background: #F8F8F8;
 }
 
 .post-bgtop {
@@ -261,7 +258,9 @@ a:hover {
 
 .post .title a {
 	border: none;
-	color: #258EDC;
+	background-color: #FFC102;
+	padding: 10px;
+	color: #000000;
 }
 
 .post .meta {
