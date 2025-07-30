@@ -5,6 +5,7 @@ http://www.freecsstemplates.org
 Released for free under a Creative Commons Attribution 2.5 License
 */
 
+
 body {
 	margin: 0;
 	padding: 0;
@@ -21,7 +22,7 @@ h1, h2, h3 {
 	text-transform: uppercase;
 	font-family: 'Helvetica', serif;
 	font-weight: normal;
-	color: #107710;
+	color: #9A0000;
 }
 
 h1 {
