@@ -87,7 +87,7 @@ a:hover {
 }
 
 #logo h1 span {
-	color: #258EDC;
+	color: #FFC102;
 }
 
 #logo p {
@@ -154,7 +154,7 @@ a:hover {
 	background: #F5F0E7;
 	border: 1px solid #D7D0C0;
 	padding: 10px;
-	border-radius: 8px;
+	border-radius: 0px;
 	text-transform: lowercase;
 	font-family: 'Open Sans', sans-serif;
 	color: #454545;
@@ -212,15 +212,15 @@ a:hover {
 }
 
 #menu a:hover, #menu .current_page_item a {
-	background: #258EDC;
-	border-radius: 8px;
+	background: #FFC102;
+	border-radius: 0px;
 	text-decoration: none;
 	color: #FFFFFF;
 }
 
 #menu .current_page_item a {
-	background: #258EDC;
-	border-radius: 8px;
+	background: #FFC102;
+	border-radius: 0px;
 }
 
 /* Page */
@@ -242,7 +242,7 @@ a:hover {
 	margin-bottom: 15px;
 	padding: 40px 200px;
 	border: 1px solid #E7DFD7;
-	border-radius: 8px;
+	border-radius: 0px;
 	background: #F8F8F8;
 }
 
@@ -300,8 +300,8 @@ a:hover {
 .button
 {
 	padding: 10px 25px;
-	background: #258EDC;
-	border-radius: 5px;
+	background: #FFC102;
+	border-radius: 0px;
 	text-transform: uppercase;
 	font-size: 12px;
 	color: #FFFFFF;
@@ -315,7 +315,7 @@ a:hover {
 	width: 250px;
 	padding: 40px 30px 0px 30px;
 	border: 1px solid #E7DFD7;
-	border-radius: 8px;
+	border-radius: 0px;
 	background: #F8F8F8;
 }
 
@@ -438,5 +438,5 @@ a:hover {
 
 #banner img
 {
-	border-radius: 8px;
+	border-radius: 0px;
 }
