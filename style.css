@@ -5,6 +5,22 @@ http://www.freecsstemplates.org
 Released for free under a Creative Commons Attribution 2.5 License
 */
 
+@media screen and (width >= 600px) {
+	.wrapper {
+		display: flex;
+	  }
+
+	.col1 {
+		flex: 1;
+		margin-right: 5%;
+	}
+
+	.col2 {
+		flex: 2;
+	}
+
+	}
+
 
 body {
 	margin: 0;
@@ -432,8 +448,11 @@ a:hover {
 }
 
 #banner {
-	width: 1200px;
+	width:  auto;
 	margin: 40px auto 0px auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 #banner img
